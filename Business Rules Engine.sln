@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Rules Engine", "Business Rules Engine\Business Rules Engine.csproj", "{DF611901-861A-4470-A6B3-52940616EBA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{2C93A033-D255-405A-9A64-6248F573F7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF611901-861A-4470-A6B3-52940616EBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF611901-861A-4470-A6B3-52940616EBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF611901-861A-4470-A6B3-52940616EBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF611901-861A-4470-A6B3-52940616EBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C93A033-D255-405A-9A64-6248F573F7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C93A033-D255-405A-9A64-6248F573F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C93A033-D255-405A-9A64-6248F573F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C93A033-D255-405A-9A64-6248F573F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856EE135-20B0-40A1-B0E6-00399DDCC176}
+	EndGlobalSection
+EndGlobal
